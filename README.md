@@ -70,6 +70,7 @@ TODO: elaborar um tópico sobre aplicações web
 
 - [ ] Visão de admin VS visão de usuário
 - [ ] Entendendo URLs e Views
+- [ ] Ordens de precedência de URLs (quando uma URL sobrescreve a outra)
 - [ ] Criando views
 - [ ] Entendendo Templates
 - [ ] Retornando Templates para o usuário
@@ -78,7 +79,28 @@ TODO: elaborar um tópico sobre aplicações web
 
 ## 1.3 APIs com Django
 
-TODO: escrever aqui
+### 1.3.1 APIs
+
+- [ ] O que é uma API?
+- [ ] Django Rest Framework
+- [ ] APIViews
+- [ ] URLs (parecidas com as URLs do tópico 1.2.5)
+
+### 1.3.2 ViewSets
+
+- [ ] ViewSet (conjunto de views)
+- [ ] Serializers (ModelSerializer)
+
+### 1.3.3 Autenticação
+
+> Mostrar e configurar todos os meios de autenticação.
+
+- [ ] Autenticação vs. Permissão
+- [ ] Como o django-admin faz autenticação
+- [ ] Meios de ter autenticação via API
+- [ ] autenticação por token
+- [ ] simplejwt
+- [ ] session
 
 ## 1.4 Tópicos Avançados
 
@@ -86,6 +108,10 @@ TODO: escrever aqui
 
 - [ ] Roteamento de banco de dados
 - [ ] Mapear ORM com tabelas já existentes
+
+## 1.5 Views clássicas do Django
+
+TODO: elaborar esse tópico
 
 ## Referências
 
