@@ -8,6 +8,7 @@
 - [ ] virtualenv
 - [ ] python
 - [ ] pip
+- [ ] gerenciar dependências (pip/pyproject, poetry)
 
 ### 1.1.2 Python
 
@@ -90,8 +91,20 @@ TODO: elaborar um tópico sobre aplicações web
 
 - [ ] ViewSet (conjunto de views)
 - [ ] Serializers (ModelSerializer)
+- [ ] Routers
+- [ ] Requests e Responses
+- [ ] Relations (Foreign Key)
+- [ ] Relations com Hyperlinks
+- [ ] Custom actions
+- [ ] Testes de API's
 
-### 1.3.3 Autenticação
+### 1.3.3 Documentação
+
+- [ ] [Swagger](https://swagger.io/solutions/api-documentation/)
+- [ ] [drf-spectacular](https://drf-spectacular.readthedocs.io/en/latest/)
+- [ ] schema-generation (static and runtime)
+
+### 1.3.4 Autenticação
 
 > Mostrar e configurar todos os meios de autenticação.
 
@@ -101,6 +114,10 @@ TODO: elaborar um tópico sobre aplicações web
 - [ ] autenticação por token
 - [ ] simplejwt
 - [ ] session
+
+### 1.3.5 Mais configurações
+
+- [ ] CORS
 
 ## 1.4 Tópicos Avançados
 
