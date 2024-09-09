@@ -4,11 +4,11 @@
 
 ### 1.1.1 Ambiente
 
-- [ ] [pyenv](https://github.com/pyenv/pyenv)
-- [ ] virtualenv
-- [ ] python
-- [ ] pip
-- [ ] gerenciar dependências (pip/pyproject, poetry)
+- [x] [pyenv](https://github.com/pyenv/pyenv)
+- [x] virtualenv
+- [x] python
+- [x] pip
+- [x] gerenciar dependências (pip/pyproject, poetry)
 
 ### 1.1.2 Python
 
