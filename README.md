@@ -84,7 +84,7 @@ TODO: elaborar um tópico sobre aplicações web
 
 - [ ] O que é uma API?
 - [ ] Django Rest Framework
-- [ ] APIViews
+- [ ] APIViews (function views and class-based-views)
 - [ ] URLs (parecidas com as URLs do tópico 1.2.5)
 
 ### 1.3.2 ViewSets
