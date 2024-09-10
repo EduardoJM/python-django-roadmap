@@ -12,9 +12,9 @@
 
 ### 1.1.2 Python
 
-- [ ] Strings e seus Métodos
-- [ ] Operadores Lógicos no Python
-- [ ] Funções em Python
+- [x] Strings e seus Métodos
+- [x] Operadores Lógicos no Python
+- [x] Funções em Python
 - [ ] Laços de Repetição
 - [ ] Dicionários e seus Métodos
 - [ ] Listas e seus Métodos
